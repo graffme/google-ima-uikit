@@ -1,0 +1,6 @@
+framework module Pods_IMAExampleUIKit {
+  umbrella header "Pods-IMAExampleUIKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
